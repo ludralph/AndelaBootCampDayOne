@@ -1,0 +1,23 @@
+{
+  "name": "bootcamp-exercise-day-one",
+  "version": "1.0.0",
+  "description": "This program is a solution to the exercises for bootcamp day1",
+  "main": "index.js",
+  "scripts": {
+    "test": "node spec/exercise_one_test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ludralph/AndelaBootCampDayOne.git"
+  },
+  "keywords": [
+    "Jasmine",
+    "Javascript"
+  ],
+  "author": "Raphael Etim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ludralph/AndelaBootCampDayOne/issues"
+  },
+  "homepage": "https://github.com/ludralph/AndelaBootCampDayOne#readme"
+}
