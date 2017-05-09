@@ -7,5 +7,7 @@ Coding Lab 1:
  Coding Lab 2:
  The second coding lab is an implementation of min-max using simple
  algorithms to iterate through each array.
- The coding lab 2 has a filename of minmax.js and the test script is
- the exercise_two_test.js file in the spec directory.
+ The coding lab 2 has a filename of minmax.js and the test script is the exercise_two_test.js file in the spec directory.
+
+ OOP Lab:
+ This contains an oop.js file that shows concepts i learnt in Javascript OOP.
